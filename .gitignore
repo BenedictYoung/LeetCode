@@ -1,0 +1,12 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore files specific to operating systems or editors
+.DS_Store
